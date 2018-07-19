@@ -1,0 +1,27 @@
+{
+  "name": "infoeducatie-api-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "compile": "tsc",
+    "start": "node ."
+  },
+  "author": {
+    "name": "Laurentiu Ciobanu |vex",
+    "email": "laurentiu@thevexis.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IAmTheVex/infoeducatie-api-client.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  },
+  "devDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
+}
