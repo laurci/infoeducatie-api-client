@@ -36,5 +36,12 @@ let { InfoeducatieApi } = require("infoeducatie-api-client");
 })();
 ```
 
-
 Check the typings for more info on the usage! The DOCs of the API are pretty much missing (except for the API.md) so i had to reverse it using the ruby code :) Hope you enjoy!
+
+## Want to contribute?
+Here's how!
+<div align="center">
+  <a href="https://github.com/IAmTheVex/zuu/blob/master/CONTRIBUTING.md">
+    <img src="https://github.com/IAmTheVex/zuu/raw/master/assets/branching.png">
+  </a>
+</div>
